@@ -109,3 +109,7 @@ mvn test
 ## Shutdown Handling
 
 The application uses an ExecutorService for asynchronous tasks. It ensures graceful shutdown using the @PreDestroy annotation in the EventService class.
+
+## Postman Link
+
+https://learning-platform-3662.postman.co/workspace/Event-Manager~da2a2616-eb8e-4a91-a4ef-1d01382e99b2/collection/38001409-7cc92303-3312-4aab-b8e9-e2ca00772185?action=share&creator=38001409
